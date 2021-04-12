@@ -1,5 +1,5 @@
 {
-    "name": "providr-packages/package-6587",
+    "name": "markuspayne/php-canpar-api-wrapper",
     "description": "Package generated from https://sandbox.canpar.com/canshipws/services/CanparRatingService?wsdl using wsdltophp/packagegenerator",
     "require": {
         "php": ">=5.3.3",
