@@ -15,7 +15,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Canpar\\": "./src/"
+            "Canpar\\Rate\\": "./src/Rate/",
+            "Canpar\\Ship\\": "./src/Ship/"
         }
     }
 }
